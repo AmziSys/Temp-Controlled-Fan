@@ -16,6 +16,6 @@ The idea is to monitor the temperature and control a Fan speed based on the meas
     - Transistor, diode, and a couple of resistors
     - 
 * Firmware:
-  The code was developed in the Arduino IDE environment 
+  The code was written in the Arduino IDE environment 
 
 The design was made in Proteus 
