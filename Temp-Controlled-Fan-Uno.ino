@@ -4,7 +4,7 @@
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(2,3,4,5,6,7);
 int tempPin = A0;   // the output pin of LM35
-int fan = 11;       // the fan is connectoed to tha erduino through this pin
+int fan = 11;       // the fan is connectoed to the Arduino through this pin
 int buzzer = 13;    // buzzer pin
 int temp;
 int tempMin = 35;   // the temperature to start the fan
